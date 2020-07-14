@@ -1,4 +1,4 @@
-# Kalki Quote bot v1.0 Created By MaragthamDevelopers
+# Kalki Quote bot v1.1 Created By MaragthamDevelopers
 # Licensed under MIT license.
 
 import random
