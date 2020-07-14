@@ -1,8 +1,8 @@
-# Kalki Quote bot V 1.0_beta Created By MaragthamDevelopers
+# Kalki Quote bot V 1.0 Created By MaragthamDevelopers
 # Licensed under MIT license.
 
 import random
-rnd=random.randint(1,15)
+rnd=random.randint(1,16)
 def primary():
 
   f = open("quotes.txt")
