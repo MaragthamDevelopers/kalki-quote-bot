@@ -1,4 +1,4 @@
-# Kalki-Quote-Bot v1.1
+# Kalki-Quote-Bot v1.3
 
 A quote bot which outputs random quotes.
 Licensed under MIT license 2020.
