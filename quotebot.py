@@ -2,7 +2,7 @@
 # Licensed under MIT license.
 
 import random
-rnd=random.randint(1,20)
+rnd=random.randint(1,24)
 def primary():
 
   f = open("quotes.txt")
